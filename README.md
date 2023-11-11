@@ -1,2 +1,2 @@
 # digitalAPP
-This is a digital app template
+This repo is going to trigger by Jenkins 
